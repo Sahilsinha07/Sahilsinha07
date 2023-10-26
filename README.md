@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil sinha</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on [Group Chatting Application](https://github.com/Sahilsinha07/Group-Chatting-Application)
+- 🔭 I’m currently working on [Dynamic Weather Application]([https://github.com/Sahilsinha07/Group-Chatting-Application](https://github.com/Sahilsinha07/DynamicWeatherApplication))
 
 - 🌱 I’m currently learning **Spring Boot , Hibernate**
 
